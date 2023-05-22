@@ -4,6 +4,11 @@
 
 This is a simple chat application implemented in Python using sockets and AES encryption. The application consists of a server and multiple clients that can connect to the server to participate in a chat.
 
+## Demo
+
+This is a short video shows the demontration of the project:
+https://drive.google.com/file/d/1DEzvhPZ-4ItfgUca6qDKixtVWY2LwWG5/view?usp=sharing
+
 ## Project structure
 
 The project is generally structured as follows:
