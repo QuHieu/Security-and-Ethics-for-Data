@@ -60,7 +60,7 @@ The server also logs the chat history to a log file. Each message is appended to
 ## Diagram
 
 Below is the sequence diagram that shows how do the components interact with each other:
-<img src="uc.png" alt="Usercase">
+<img src="uc_fix.png" alt="Usercase">
 
 ## Flaws
 
